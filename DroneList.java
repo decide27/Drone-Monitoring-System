@@ -2,7 +2,7 @@ package app;
 
 /**
  * Interface for a class representing a list of monitored drones *** DO NOT MODIFY ***
- * @author Tutor_m19com
+ * @author m19com
  * @version 1.0 - 20/6/2018
  */
 public interface DroneList
