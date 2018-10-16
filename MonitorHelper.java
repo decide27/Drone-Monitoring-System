@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * Helper class for drone operations *** DO NOT MODIFY ***
- * @author Tutor_m19com
+ * @author m19com
  * @version 1.0 - 20/6/2018
  */
 public class MonitorHelper 
